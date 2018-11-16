@@ -1,0 +1,2315 @@
+[{
+        "id": "add",
+        "styles": [""],
+        "label": "add",
+        "terms": [],
+        "unicode": "e900"
+    },
+    {
+        "id": "airplane",
+        "styles": [""],
+        "label": "airplane",
+        "terms": [],
+        "unicode": "e901"
+    },
+    {
+        "id": "airplane-l",
+        "styles": [""],
+        "label": "airplane-l",
+        "terms": [],
+        "unicode": "e902"
+    },
+    {
+        "id": "alipay",
+        "styles": [""],
+        "label": "alipay",
+        "terms": [
+            "pay",
+            "alibaba"
+        ],
+        "unicode": "e903"
+    },
+    {
+        "id": "analysis",
+        "styles": [""],
+        "label": "analysis",
+        "terms": [],
+        "unicode": "e904"
+    },
+    {
+        "id": "android",
+        "styles": [""],
+        "label": "android",
+        "terms": [
+            "os",
+            "linux"
+        ],
+        "unicode": "e905"
+    },
+    {
+        "id": "angle-down-l",
+        "styles": [""],
+        "label": "angle-down-l",
+        "terms": [],
+        "unicode": "e917"
+    },
+    {
+        "id": "angle-left-l",
+        "styles": [""],
+        "label": "angle-left-l",
+        "terms": [],
+        "unicode": "e907"
+    },
+    {
+        "id": "angle-right-l",
+        "styles": [""],
+        "label": "angle-right-l",
+        "terms": [],
+        "unicode": "e908"
+    },
+    {
+        "id": "angle-up-l",
+        "styles": [""],
+        "label": "angle-up-l",
+        "terms": [],
+        "unicode": "e909"
+    },
+    {
+        "id": "apple",
+        "styles": [""],
+        "label": "apple",
+        "terms": [
+            "company"
+        ],
+        "unicode": "e90a"
+    },
+    {
+        "id": "arrow-down-l",
+        "styles": [""],
+        "label": "arrow-down-l",
+        "terms": [],
+        "unicode": "e90b"
+    },
+    {
+        "id": "arrow-up-l",
+        "styles": [""],
+        "label": "arrow-up-l",
+        "terms": [],
+        "unicode": "e90c"
+    },
+    {
+        "id": "aso-l",
+        "styles": [""],
+        "label": "aso-l",
+        "terms": [],
+        "unicode": "e90d"
+    },
+    {
+        "id": "association-l",
+        "styles": [""],
+        "label": "association-l",
+        "terms": [],
+        "unicode": "e90e"
+    },
+    {
+        "id": "baiduwangpan",
+        "styles": [""],
+        "label": "baiduwangpan",
+        "terms": [],
+        "unicode": "e90f"
+    },
+    {
+        "id": "bar-chart",
+        "styles": [""],
+        "label": "bar-chart",
+        "terms": [],
+        "unicode": "e910"
+    },
+    {
+        "id": "bar-chart-l",
+        "styles": [""],
+        "label": "bar-chart-l",
+        "terms": [],
+        "unicode": "e911"
+    },
+    {
+        "id": "battery",
+        "styles": [""],
+        "label": "battery",
+        "terms": [],
+        "unicode": "e912"
+    },
+    {
+        "id": "battery-l",
+        "styles": [""],
+        "label": "battery-l",
+        "terms": [],
+        "unicode": "e913"
+    },
+    {
+        "id": "bell",
+        "styles": [""],
+        "label": "bell",
+        "terms": [],
+        "unicode": "e914"
+    },
+    {
+        "id": "bell-l",
+        "styles": [""],
+        "label": "bell-l",
+        "terms": [],
+        "unicode": "e915"
+    },
+    {
+        "id": "bilibili",
+        "styles": [""],
+        "label": "bilibili",
+        "terms": [],
+        "unicode": "e916"
+    },
+    {
+        "id": "bitcoin",
+        "styles": [""],
+        "label": "bitcoin",
+        "terms": [],
+        "unicode": "e9177"
+    },
+    {
+        "id": "blackboard-l",
+        "styles": [""],
+        "label": "blackboard-l",
+        "terms": [],
+        "unicode": "e918"
+    },
+    {
+        "id": "bluetooth",
+        "styles": [""],
+        "label": "bluetooth",
+        "terms": [],
+        "unicode": "e919"
+    },
+    {
+        "id": "bluetooth-l",
+        "styles": [""],
+        "label": "bluetooth-l",
+        "terms": [],
+        "unicode": "e91a"
+    },
+    {
+        "id": "board",
+        "styles": [""],
+        "label": "board",
+        "terms": [],
+        "unicode": "e91b"
+    },
+    {
+        "id": "board-l",
+        "styles": [""],
+        "label": "board-l",
+        "terms": [],
+        "unicode": "e91c"
+    },
+    {
+        "id": "book",
+        "styles": [""],
+        "label": "book",
+        "terms": [],
+        "unicode": "e91d"
+    },
+    {
+        "id": "book-l",
+        "styles": [""],
+        "label": "book-l",
+        "terms": [],
+        "unicode": "e91e"
+    },
+    {
+        "id": "bookmark",
+        "styles": [""],
+        "label": "bookmark",
+        "terms": [],
+        "unicode": "e91f"
+    },
+    {
+        "id": "bookmark-l",
+        "styles": [""],
+        "label": "bookmark-l",
+        "terms": [],
+        "unicode": "e920"
+    },
+    {
+        "id": "briefcase",
+        "styles": [""],
+        "label": "briefcase",
+        "terms": [],
+        "unicode": "e921"
+    },
+    {
+        "id": "briefcase-l",
+        "styles": [""],
+        "label": "briefcase-l",
+        "terms": [],
+        "unicode": "e922"
+    },
+    {
+        "id": "brush",
+        "styles": [""],
+        "label": "brush",
+        "terms": [],
+        "unicode": "e923"
+    },
+    {
+        "id": "brush-l",
+        "styles": [""],
+        "label": "brush-l",
+        "terms": [],
+        "unicode": "e924"
+    },
+    {
+        "id": "bug",
+        "styles": [""],
+        "label": "bug",
+        "terms": [],
+        "unicode": "e925"
+    },
+    {
+        "id": "bug-l",
+        "styles": [""],
+        "label": "bug-l",
+        "terms": [],
+        "unicode": "e926"
+    },
+    {
+        "id": "building",
+        "styles": [""],
+        "label": "building",
+        "terms": [],
+        "unicode": "e927"
+    },
+    {
+        "id": "building-l",
+        "styles": [""],
+        "label": "building-l",
+        "terms": [],
+        "unicode": "e928"
+    },
+    {
+        "id": "buy",
+        "styles": [""],
+        "label": "buy",
+        "terms": [],
+        "unicode": "e929"
+    },
+    {
+        "id": "buy-l",
+        "styles": [""],
+        "label": "buy-l",
+        "terms": [],
+        "unicode": "e92a"
+    },
+    {
+        "id": "calculator",
+        "styles": [""],
+        "label": "calculator",
+        "terms": [],
+        "unicode": "e92b"
+    },
+    {
+        "id": "calculator-l",
+        "styles": [""],
+        "label": "calculator-l",
+        "terms": [],
+        "unicode": "e92c"
+    },
+    {
+        "id": "calendar",
+        "styles": [""],
+        "label": "calendar",
+        "terms": [],
+        "unicode": "e92d"
+    },
+    {
+        "id": "calendar-l",
+        "styles": [""],
+        "label": "calendar-l",
+        "terms": [],
+        "unicode": "e92e"
+    },
+    {
+        "id": "camber",
+        "styles": [""],
+        "label": "camber",
+        "terms": [],
+        "unicode": "e92f"
+    },
+    {
+        "id": "camber-l",
+        "styles": [""],
+        "label": "camber-l",
+        "terms": [],
+        "unicode": "e930"
+    },
+    {
+        "id": "camber-o",
+        "styles": [""],
+        "label": "camber-o",
+        "terms": [],
+        "unicode": "e931"
+    },
+    {
+        "id": "camera",
+        "styles": [""],
+        "label": "camera",
+        "terms": [],
+        "unicode": "e932"
+    },
+    {
+        "id": "camera-l",
+        "styles": [""],
+        "label": "camera-l",
+        "terms": [],
+        "unicode": "e933"
+    },
+    {
+        "id": "caomei",
+        "styles": [""],
+        "label": "caomei",
+        "terms": [],
+        "unicode": "e934"
+    },
+    {
+        "id": "category-l",
+        "styles": [""],
+        "label": "category-l",
+        "terms": [],
+        "unicode": "e935"
+    },
+    {
+        "id": "certificate",
+        "styles": [""],
+        "label": "certificate",
+        "terms": [],
+        "unicode": "e936"
+    },
+    {
+        "id": "chemistry",
+        "styles": [""],
+        "label": "chemistry",
+        "terms": [],
+        "unicode": "e937"
+    },
+    {
+        "id": "chemistry-l",
+        "styles": [""],
+        "label": "chemistry-l",
+        "terms": [],
+        "unicode": "e938"
+    },
+    {
+        "id": "choose-list-l",
+        "styles": [""],
+        "label": "choose-list-l",
+        "terms": [],
+        "unicode": "e939"
+    },
+    {
+        "id": "chrome",
+        "styles": [""],
+        "label": "chrome",
+        "terms": [],
+        "unicode": "e93a"
+    },
+    {
+        "id": "chuangzaoshi",
+        "styles": [""],
+        "label": "chuangzaoshi",
+        "terms": [],
+        "unicode": "e93b"
+    },
+    {
+        "id": "circle",
+        "styles": [""],
+        "label": "circle",
+        "terms": [],
+        "unicode": "e93c"
+    },
+    {
+        "id": "circle-l",
+        "styles": [""],
+        "label": "circle-l",
+        "terms": [],
+        "unicode": "e93d"
+    },
+    {
+        "id": "circle-o",
+        "styles": [""],
+        "label": "circle-o",
+        "terms": [],
+        "unicode": "e93e"
+    },
+    {
+        "id": "clip-l",
+        "styles": [""],
+        "label": "clip-l",
+        "terms": [],
+        "unicode": "e93f"
+    },
+    {
+        "id": "clock",
+        "styles": [""],
+        "label": "clock",
+        "terms": [],
+        "unicode": "e940"
+    },
+    {
+        "id": "clock-l",
+        "styles": [""],
+        "label": "clock-l",
+        "terms": [],
+        "unicode": "e941"
+    },
+    {
+        "id": "close-l",
+        "styles": [""],
+        "label": "close-l",
+        "terms": [],
+        "unicode": "e942"
+    },
+    {
+        "id": "clothes",
+        "styles": [""],
+        "label": "clothes",
+        "terms": [],
+        "unicode": "e943"
+    },
+    {
+        "id": "clothes-l",
+        "styles": [""],
+        "label": "clothes-l",
+        "terms": [],
+        "unicode": "e944"
+    },
+    {
+        "id": "cloud",
+        "styles": [""],
+        "label": "cloud",
+        "terms": [],
+        "unicode": "e945"
+    },
+    {
+        "id": "cloud-l",
+        "styles": [""],
+        "label": "cloud-l",
+        "terms": [],
+        "unicode": "e946"
+    },
+    {
+        "id": "code-branch",
+        "styles": [""],
+        "label": "code-branch",
+        "terms": [],
+        "unicode": "e947"
+    },
+    {
+        "id": "code-edit-l",
+        "styles": [""],
+        "label": "code-edit-l",
+        "terms": [],
+        "unicode": "e948"
+    },
+    {
+        "id": "code-file",
+        "styles": [""],
+        "label": "code-file",
+        "terms": [],
+        "unicode": "e949"
+    },
+    {
+        "id": "code-file-l",
+        "styles": [""],
+        "label": "code-file-l",
+        "terms": [],
+        "unicode": "e94a"
+    },
+    {
+        "id": "code-fork",
+        "styles": [""],
+        "label": "code-fork",
+        "terms": [],
+        "unicode": "e94b"
+    },
+    {
+        "id": "code-l",
+        "styles": [""],
+        "label": "code-l",
+        "terms": [],
+        "unicode": "e94c"
+    },
+    {
+        "id": "code-plugin-l",
+        "styles": [""],
+        "label": "code-plugin-l",
+        "terms": [],
+        "unicode": "e94d"
+    },
+    {
+        "id": "coin",
+        "styles": [""],
+        "label": "coin",
+        "terms": [],
+        "unicode": "e94e"
+    },
+    {
+        "id": "coin-l",
+        "styles": [""],
+        "label": "coin-l",
+        "terms": [],
+        "unicode": "e94f"
+    },
+    {
+        "id": "collection",
+        "styles": [""],
+        "label": "collection",
+        "terms": [],
+        "unicode": "e950"
+    },
+    {
+        "id": "come-l",
+        "styles": [""],
+        "label": "come-l",
+        "terms": [],
+        "unicode": "e951"
+    },
+    {
+        "id": "command",
+        "styles": [""],
+        "label": "command",
+        "terms": [],
+        "unicode": "e952"
+    },
+    {
+        "id": "command-2",
+        "styles": [""],
+        "label": "command-2",
+        "terms": [],
+        "unicode": "e953"
+    },
+    {
+        "id": "command-l",
+        "styles": [""],
+        "label": "command-l",
+        "terms": [],
+        "unicode": "e954"
+    },
+    {
+        "id": "comment",
+        "styles": [""],
+        "label": "comment",
+        "terms": [],
+        "unicode": "e955"
+    },
+    {
+        "id": "comment-l",
+        "styles": [""],
+        "label": "comment-l",
+        "terms": [],
+        "unicode": "e956"
+    },
+    {
+        "id": "computer",
+        "styles": [""],
+        "label": "computer",
+        "terms": [],
+        "unicode": "e957"
+    },
+    {
+        "id": "computer-l",
+        "styles": [""],
+        "label": "computer-l",
+        "terms": [],
+        "unicode": "e958"
+    },
+    {
+        "id": "configuration",
+        "styles": [""],
+        "label": "configuration",
+        "terms": [],
+        "unicode": "e959"
+    },
+    {
+        "id": "connection",
+        "styles": [""],
+        "label": "connection",
+        "terms": [],
+        "unicode": "e95a"
+    },
+    {
+        "id": "construct-l",
+        "styles": [""],
+        "label": "construct-l",
+        "terms": [],
+        "unicode": "e95b"
+    },
+    {
+        "id": "container-l",
+        "styles": [""],
+        "label": "container-l",
+        "terms": [],
+        "unicode": "e95c"
+    },
+    {
+        "id": "control",
+        "styles": [""],
+        "label": "control",
+        "terms": [],
+        "unicode": "e95d"
+    },
+    {
+        "id": "control-rank",
+        "styles": [""],
+        "label": "control-rank",
+        "terms": [],
+        "unicode": "e95e"
+    },
+    {
+        "id": "crown",
+        "styles": [""],
+        "label": "crown",
+        "terms": [],
+        "unicode": "e95f"
+    },
+    {
+        "id": "crown-l",
+        "styles": [""],
+        "label": "crown-l",
+        "terms": [],
+        "unicode": "e960"
+    },
+    {
+        "id": "css3",
+        "styles": [""],
+        "label": "css3",
+        "terms": [],
+        "unicode": "e961"
+    },
+    {
+        "id": "cup",
+        "styles": [""],
+        "label": "cup",
+        "terms": [],
+        "unicode": "e962"
+    },
+    {
+        "id": "cup-l",
+        "styles": [""],
+        "label": "cup-l",
+        "terms": [],
+        "unicode": "e963"
+    },
+    {
+        "id": "data-test",
+        "styles": [""],
+        "label": "data-test",
+        "terms": [],
+        "unicode": "e964"
+    },
+    {
+        "id": "design-edit-l",
+        "styles": [""],
+        "label": "design-edit-l",
+        "terms": [],
+        "unicode": "e965"
+    },
+    {
+        "id": "design-shape-l",
+        "styles": [""],
+        "label": "design-shape-l",
+        "terms": [],
+        "unicode": "e966"
+    },
+    {
+        "id": "detect-l",
+        "styles": [""],
+        "label": "detect-l",
+        "terms": [],
+        "unicode": "e967"
+    },
+    {
+        "id": "d-glasses",
+        "styles": [""],
+        "label": "d-glasses",
+        "terms": [],
+        "unicode": "e968"
+    },
+    {
+        "id": "diamond-l",
+        "styles": [""],
+        "label": "diamond-l",
+        "terms": [],
+        "unicode": "e969"
+    },
+    {
+        "id": "doc-edit",
+        "styles": [""],
+        "label": "doc-edit",
+        "terms": [],
+        "unicode": "e96a"
+    },
+    {
+        "id": "doc-file",
+        "styles": [""],
+        "label": "doc-file",
+        "terms": [],
+        "unicode": "e96b"
+    },
+    {
+        "id": "doc-file-l",
+        "styles": [""],
+        "label": "doc-file-l",
+        "terms": [],
+        "unicode": "e96c"
+    },
+    {
+        "id": "download-l",
+        "styles": [""],
+        "label": "download-l",
+        "terms": [],
+        "unicode": "e96d"
+    },
+    {
+        "id": "dribbble",
+        "styles": [""],
+        "label": "dribbble",
+        "terms": [],
+        "unicode": "e96e"
+    },
+    {
+        "id": "dropbox",
+        "styles": [""],
+        "label": "dropbox",
+        "terms": [],
+        "unicode": "e96f"
+    },
+    {
+        "id": "d-space",
+        "styles": [""],
+        "label": "d-space",
+        "terms": [],
+        "unicode": "e970"
+    },
+    {
+        "id": "eye",
+        "styles": [""],
+        "label": "eye",
+        "terms": [],
+        "unicode": "e971"
+    },
+    {
+        "id": "eye-l",
+        "styles": [""],
+        "label": "eye-l",
+        "terms": [],
+        "unicode": "e972"
+    },
+    {
+        "id": "facebook",
+        "styles": [""],
+        "label": "facebook",
+        "terms": [],
+        "unicode": "e973"
+    },
+    {
+        "id": "file",
+        "styles": [""],
+        "label": "file",
+        "terms": [],
+        "unicode": "e974"
+    },
+    {
+        "id": "file-l",
+        "styles": [""],
+        "label": "file-l",
+        "terms": [],
+        "unicode": "e975"
+    },
+    {
+        "id": "film",
+        "styles": [""],
+        "label": "film",
+        "terms": [],
+        "unicode": "e976"
+    },
+    {
+        "id": "film-l",
+        "styles": [""],
+        "label": "film-l",
+        "terms": [],
+        "unicode": "e977"
+    },
+    {
+        "id": "fire-l",
+        "styles": [""],
+        "label": "fire-l",
+        "terms": [],
+        "unicode": "e978"
+    },
+    {
+        "id": "firewall",
+        "styles": [""],
+        "label": "firewall",
+        "terms": [],
+        "unicode": "e979"
+    },
+    {
+        "id": "firewall-l",
+        "styles": [""],
+        "label": "firewall-l",
+        "terms": [],
+        "unicode": "e97a"
+    },
+    {
+        "id": "folder-l",
+        "styles": [""],
+        "label": "folder-l",
+        "terms": [],
+        "unicode": "e97b"
+    },
+    {
+        "id": "font",
+        "styles": [""],
+        "label": "font",
+        "terms": [],
+        "unicode": "e97c"
+    },
+    {
+        "id": "forum",
+        "styles": [""],
+        "label": "forum",
+        "terms": [],
+        "unicode": "e97d"
+    },
+    {
+        "id": "game",
+        "styles": [""],
+        "label": "game",
+        "terms": [],
+        "unicode": "e97e"
+    },
+    {
+        "id": "game-l",
+        "styles": [""],
+        "label": "game-l",
+        "terms": [],
+        "unicode": "e97f"
+    },
+    {
+        "id": "geometry-shape-l",
+        "styles": [""],
+        "label": "geometry-shape-l",
+        "terms": [],
+        "unicode": "e980"
+    },
+    {
+        "id": "gift",
+        "styles": [""],
+        "label": "gift",
+        "terms": [],
+        "unicode": "e981"
+    },
+    {
+        "id": "gift-l",
+        "styles": [""],
+        "label": "gift-l",
+        "terms": [],
+        "unicode": "e982"
+    },
+    {
+        "id": "github",
+        "styles": [""],
+        "label": "github",
+        "terms": [],
+        "unicode": "e983"
+    },
+    {
+        "id": "github-logo",
+        "styles": [""],
+        "label": "github-logo",
+        "terms": [],
+        "unicode": "e984"
+    },
+    {
+        "id": "git-l",
+        "styles": [""],
+        "label": "git-l",
+        "terms": [],
+        "unicode": "e985"
+    },
+    {
+        "id": "greatwall",
+        "styles": [""],
+        "label": "greatwall",
+        "terms": [],
+        "unicode": "e986"
+    },
+    {
+        "id": "hacker",
+        "styles": [""],
+        "label": "hacker",
+        "terms": [],
+        "unicode": "e987"
+    },
+    {
+        "id": "hand-bevel",
+        "styles": [""],
+        "label": "hand-bevel",
+        "terms": [],
+        "unicode": "e988"
+    },
+    {
+        "id": "hand-button",
+        "styles": [""],
+        "label": "hand-button",
+        "terms": [],
+        "unicode": "e989"
+    },
+    {
+        "id": "hande-vertical",
+        "styles": [""],
+        "label": "hande-vertical",
+        "terms": [],
+        "unicode": "e98a"
+    },
+    {
+        "id": "hand-gather",
+        "styles": [""],
+        "label": "hand-gather",
+        "terms": [],
+        "unicode": "e98b"
+    },
+    {
+        "id": "hand-grasp",
+        "styles": [""],
+        "label": "hand-grasp",
+        "terms": [],
+        "unicode": "e98c"
+    },
+    {
+        "id": "hand-horizontal",
+        "styles": [""],
+        "label": "hand-horizontal",
+        "terms": [],
+        "unicode": "e98d"
+    },
+    {
+        "id": "hand-pointer",
+        "styles": [""],
+        "label": "hand-pointer",
+        "terms": [],
+        "unicode": "e98e"
+    },
+    {
+        "id": "hand-slide",
+        "styles": [""],
+        "label": "hand-slide",
+        "terms": [],
+        "unicode": "e98f"
+    },
+    {
+        "id": "hand-stop",
+        "styles": [""],
+        "label": "hand-stop",
+        "terms": [],
+        "unicode": "e990"
+    },
+    {
+        "id": "hand-touch",
+        "styles": [""],
+        "label": "hand-touch",
+        "terms": [],
+        "unicode": "e991"
+    },
+    {
+        "id": "headset",
+        "styles": [""],
+        "label": "headset",
+        "terms": [],
+        "unicode": "e992"
+    },
+    {
+        "id": "headset-l",
+        "styles": [""],
+        "label": "headset-l",
+        "terms": [],
+        "unicode": "e993"
+    },
+    {
+        "id": "heart",
+        "styles": [""],
+        "label": "heart",
+        "terms": [],
+        "unicode": "e994"
+    },
+    {
+        "id": "heart-l",
+        "styles": [""],
+        "label": "heart-l",
+        "terms": [],
+        "unicode": "e995"
+    },
+    {
+        "id": "home",
+        "styles": [""],
+        "label": "home",
+        "terms": [],
+        "unicode": "e996"
+    },
+    {
+        "id": "home-l",
+        "styles": [""],
+        "label": "home-l",
+        "terms": [],
+        "unicode": "e997"
+    },
+    {
+        "id": "html5",
+        "styles": [""],
+        "label": "html5",
+        "terms": [],
+        "unicode": "e998"
+    },
+    {
+        "id": "image",
+        "styles": [""],
+        "label": "image",
+        "terms": [],
+        "unicode": "e999"
+    },
+    {
+        "id": "image-l",
+        "styles": [""],
+        "label": "image-l",
+        "terms": [],
+        "unicode": "e99a"
+    },
+    {
+        "id": "inbox",
+        "styles": [""],
+        "label": "inbox",
+        "terms": [],
+        "unicode": "e99b"
+    },
+    {
+        "id": "inbox-l",
+        "styles": [""],
+        "label": "inbox-l",
+        "terms": [],
+        "unicode": "e99c"
+    },
+    {
+        "id": "info-l",
+        "styles": [""],
+        "label": "info-l",
+        "terms": [],
+        "unicode": "e99d"
+    },
+    {
+        "id": "Instagram",
+        "styles": [""],
+        "label": "Instagram",
+        "terms": [],
+        "unicode": "e99e"
+    },
+    {
+        "id": "keyboard",
+        "styles": [""],
+        "label": "keyboard",
+        "terms": [],
+        "unicode": "e99f"
+    },
+    {
+        "id": "keyboard-l",
+        "styles": [""],
+        "label": "keyboard-l",
+        "terms": [],
+        "unicode": "e9a0"
+    },
+    {
+        "id": "label-info-l",
+        "styles": [""],
+        "label": "label-info-l",
+        "terms": [],
+        "unicode": "e9a1"
+    },
+    {
+        "id": "laptop",
+        "styles": [""],
+        "label": "laptop",
+        "terms": [],
+        "unicode": "e9a2"
+    },
+    {
+        "id": "laptop-l",
+        "styles": [""],
+        "label": "laptop-l",
+        "terms": [],
+        "unicode": "e9a3"
+    },
+    {
+        "id": "layers",
+        "styles": [""],
+        "label": "layers",
+        "terms": [],
+        "unicode": "e9a4"
+    },
+    {
+        "id": "layout-grid",
+        "styles": [""],
+        "label": "layout-grid",
+        "terms": [],
+        "unicode": "e9a5"
+    },
+    {
+        "id": "layout-grids",
+        "styles": [""],
+        "label": "layout-grids",
+        "terms": [],
+        "unicode": "e9a6"
+    },
+    {
+        "id": "layout-list",
+        "styles": [""],
+        "label": "layout-list",
+        "terms": [],
+        "unicode": "e9a7"
+    },
+    {
+        "id": "light",
+        "styles": [""],
+        "label": "light",
+        "terms": [],
+        "unicode": "e9a8"
+    },
+    {
+        "id": "light-flash-l",
+        "styles": [""],
+        "label": "light-flash-l",
+        "terms": [],
+        "unicode": "e9a9"
+    },
+    {
+        "id": "light-l",
+        "styles": [""],
+        "label": "light-l",
+        "terms": [],
+        "unicode": "e9aa"
+    },
+    {
+        "id": "lightning",
+        "styles": [""],
+        "label": "lightning",
+        "terms": [],
+        "unicode": "e9ab"
+    },
+    {
+        "id": "lightning-l",
+        "styles": [""],
+        "label": "lightning-l",
+        "terms": [],
+        "unicode": "e9ac"
+    },
+    {
+        "id": "link-l",
+        "styles": [""],
+        "label": "link-l",
+        "terms": [],
+        "unicode": "e9ad"
+    },
+    {
+        "id": "linux",
+        "styles": [""],
+        "label": "linux",
+        "terms": [],
+        "unicode": "e9ae"
+    },
+    {
+        "id": "list-clipboard",
+        "styles": [""],
+        "label": "list-clipboard",
+        "terms": [],
+        "unicode": "e9af"
+    },
+    {
+        "id": "list-clipboard-l",
+        "styles": [""],
+        "label": "list-clipboard-l",
+        "terms": [],
+        "unicode": "e9b0"
+    },
+    {
+        "id": "location",
+        "styles": [""],
+        "label": "location",
+        "terms": [],
+        "unicode": "e9b1"
+    },
+    {
+        "id": "location-l",
+        "styles": [""],
+        "label": "location-l",
+        "terms": [],
+        "unicode": "e9b2"
+    },
+    {
+        "id": "lock",
+        "styles": [""],
+        "label": "lock",
+        "terms": [],
+        "unicode": "e9b3"
+    },
+    {
+        "id": "lock-l",
+        "styles": [""],
+        "label": "lock-l",
+        "terms": [],
+        "unicode": "e9b4"
+    },
+    {
+        "id": "map",
+        "styles": [""],
+        "label": "map",
+        "terms": [],
+        "unicode": "e9b5"
+    },
+    {
+        "id": "map-l",
+        "styles": [""],
+        "label": "map-l",
+        "terms": [],
+        "unicode": "e9b6"
+    },
+    {
+        "id": "medal",
+        "styles": [""],
+        "label": "medal",
+        "terms": [],
+        "unicode": "e9b7"
+    },
+    {
+        "id": "medal-l",
+        "styles": [""],
+        "label": "medal-l",
+        "terms": [],
+        "unicode": "e9b8"
+    },
+    {
+        "id": "menu-l",
+        "styles": [""],
+        "label": "menu-l",
+        "terms": [],
+        "unicode": "e9b9"
+    },
+    {
+        "id": "message",
+        "styles": [""],
+        "label": "message",
+        "terms": [],
+        "unicode": "e9ba"
+    },
+    {
+        "id": "message-l",
+        "styles": [""],
+        "label": "message-l",
+        "terms": [],
+        "unicode": "e9bb"
+    },
+    {
+        "id": "microchip",
+        "styles": [""],
+        "label": "microchip",
+        "terms": [],
+        "unicode": "e9bc"
+    },
+    {
+        "id": "microchip-l",
+        "styles": [""],
+        "label": "microchip-l",
+        "terms": [],
+        "unicode": "e9bd"
+    },
+    {
+        "id": "microphone",
+        "styles": [""],
+        "label": "microphone",
+        "terms": [],
+        "unicode": "e9be"
+    },
+    {
+        "id": "microphone-l",
+        "styles": [""],
+        "label": "microphone-l",
+        "terms": [],
+        "unicode": "e9bf"
+    },
+    {
+        "id": "microsoft",
+        "styles": [""],
+        "label": "microsoft",
+        "terms": [],
+        "unicode": "e9c0"
+    },
+    {
+        "id": "mobile",
+        "styles": [""],
+        "label": "mobile",
+        "terms": [],
+        "unicode": "e9c1"
+    },
+    {
+        "id": "mobile-l",
+        "styles": [""],
+        "label": "mobile-l",
+        "terms": [],
+        "unicode": "e9c2"
+    },
+    {
+        "id": "moments",
+        "styles": [""],
+        "label": "moments",
+        "terms": [],
+        "unicode": "e9c3"
+    },
+    {
+        "id": "money",
+        "styles": [""],
+        "label": "money",
+        "terms": [],
+        "unicode": "e9c4"
+    },
+    {
+        "id": "mouse",
+        "styles": [""],
+        "label": "mouse",
+        "terms": [],
+        "unicode": "e9c5"
+    },
+    {
+        "id": "mouse-l",
+        "styles": [""],
+        "label": "mouse-l",
+        "terms": [],
+        "unicode": "e9c6"
+    },
+    {
+        "id": "music",
+        "styles": [""],
+        "label": "music",
+        "terms": [],
+        "unicode": "e9c7"
+    },
+    {
+        "id": "music-file",
+        "styles": [""],
+        "label": "music-file",
+        "terms": [],
+        "unicode": "e9c8"
+    },
+    {
+        "id": "music-file-l",
+        "styles": [""],
+        "label": "music-file-l",
+        "terms": [],
+        "unicode": "e9c9"
+    },
+    {
+        "id": "music-l",
+        "styles": [""],
+        "label": "music-l",
+        "terms": [],
+        "unicode": "e9ca"
+    },
+    {
+        "id": "music-note",
+        "styles": [""],
+        "label": "music-note",
+        "terms": [],
+        "unicode": "e9cb"
+    },
+    {
+        "id": "music-note-l",
+        "styles": [""],
+        "label": "music-note-l",
+        "terms": [],
+        "unicode": "e9cc"
+    },
+    {
+        "id": "network-l",
+        "styles": [""],
+        "label": "network-l",
+        "terms": [],
+        "unicode": "e9cd"
+    },
+    {
+        "id": "new-l",
+        "styles": [""],
+        "label": "new-l",
+        "terms": [],
+        "unicode": "e9ce"
+    },
+    {
+        "id": "newspaper-l",
+        "styles": [""],
+        "label": "newspaper-l",
+        "terms": [],
+        "unicode": "e9cf"
+    },
+    {
+        "id": "operation",
+        "styles": [""],
+        "label": "operation",
+        "terms": [],
+        "unicode": "e9d0"
+    },
+    {
+        "id": "out-l",
+        "styles": [""],
+        "label": "out-l",
+        "terms": [],
+        "unicode": "e9d1"
+    },
+    {
+        "id": "overlapping",
+        "styles": [""],
+        "label": "overlapping",
+        "terms": [],
+        "unicode": "e9d2"
+    },
+    {
+        "id": "pad",
+        "styles": [""],
+        "label": "pad",
+        "terms": [],
+        "unicode": "e9d3"
+    },
+    {
+        "id": "paper",
+        "styles": [""],
+        "label": "paper",
+        "terms": [],
+        "unicode": "e9d4"
+    },
+    {
+        "id": "paper-plane",
+        "styles": [""],
+        "label": "paper-plane",
+        "terms": [],
+        "unicode": "e9d5"
+    },
+    {
+        "id": "pause-l",
+        "styles": [""],
+        "label": "pause-l",
+        "terms": [],
+        "unicode": "e9d6"
+    },
+    {
+        "id": "paypal",
+        "styles": [""],
+        "label": "paypal",
+        "terms": [],
+        "unicode": "e9d7"
+    },
+    {
+        "id": "pen",
+        "styles": [""],
+        "label": "pen",
+        "terms": [],
+        "unicode": "e9d8"
+    },
+    {
+        "id": "pen-write",
+        "styles": [""],
+        "label": "pen-write",
+        "terms": [],
+        "unicode": "e9d9"
+    },
+    {
+        "id": "people",
+        "styles": [""],
+        "label": "people",
+        "terms": [],
+        "unicode": "e9da"
+    },
+    {
+        "id": "pinterest",
+        "styles": [""],
+        "label": "pinterest",
+        "terms": [],
+        "unicode": "e9db"
+    },
+    {
+        "id": "pixels",
+        "styles": [""],
+        "label": "pixels",
+        "terms": [],
+        "unicode": "e9dc"
+    },
+    {
+        "id": "platform",
+        "styles": [""],
+        "label": "platform",
+        "terms": [],
+        "unicode": "e9dd"
+    },
+    {
+        "id": "play-l",
+        "styles": [""],
+        "label": "play-l",
+        "terms": [],
+        "unicode": "e9de"
+    },
+    {
+        "id": "pokemon-ball",
+        "styles": [""],
+        "label": "pokemon-ball",
+        "terms": [],
+        "unicode": "e9df"
+    },
+    {
+        "id": "printer",
+        "styles": [""],
+        "label": "printer",
+        "terms": [],
+        "unicode": "e9e0"
+    },
+    {
+        "id": "printer-l",
+        "styles": [""],
+        "label": "printer-l",
+        "terms": [],
+        "unicode": "e9e1"
+    },
+    {
+        "id": "product-l",
+        "styles": [""],
+        "label": "product-l",
+        "terms": [],
+        "unicode": "e9e2"
+    },
+    {
+        "id": "program",
+        "styles": [""],
+        "label": "program",
+        "terms": [],
+        "unicode": "e9e3"
+    },
+    {
+        "id": "program-framework-l",
+        "styles": [""],
+        "label": "program-framework-l",
+        "terms": [],
+        "unicode": "e9e4"
+    },
+    {
+        "id": "prototype",
+        "styles": [""],
+        "label": "prototype",
+        "terms": [],
+        "unicode": "e9e5"
+    },
+    {
+        "id": "prototype-select-l",
+        "styles": [""],
+        "label": "prototype-select-l",
+        "terms": [],
+        "unicode": "e9e6"
+    },
+    {
+        "id": "qq",
+        "styles": [""],
+        "label": "qq",
+        "terms": [
+            "chat",
+            "tencent"
+        ],
+        "unicode": "e9e7"
+    },
+    {
+        "id": "qrcode-l",
+        "styles": [""],
+        "label": "qrcode-l",
+        "terms": [],
+        "unicode": "e9e8"
+    },
+    {
+        "id": "quote-left",
+        "styles": [""],
+        "label": "quote-left",
+        "terms": [],
+        "unicode": "e9e9"
+    },
+    {
+        "id": "quote-right",
+        "styles": [""],
+        "label": "quote-right",
+        "terms": [],
+        "unicode": "e9ea"
+    },
+    {
+        "id": "qzone",
+        "styles": [""],
+        "label": "qzone",
+        "terms": [],
+        "unicode": "e9eb"
+    },
+    {
+        "id": "raspberry",
+        "styles": [""],
+        "label": "raspberry",
+        "terms": [],
+        "unicode": "e9ec"
+    },
+    {
+        "id": "read",
+        "styles": [""],
+        "label": "read",
+        "terms": [],
+        "unicode": "e9ed"
+    },
+    {
+        "id": "read-l",
+        "styles": [""],
+        "label": "read-l",
+        "terms": [],
+        "unicode": "e9ee"
+    },
+    {
+        "id": "red-envelope",
+        "styles": [""],
+        "label": "red-envelope",
+        "terms": [],
+        "unicode": "e9ef"
+    },
+    {
+        "id": "right-clipboard",
+        "styles": [""],
+        "label": "right-clipboard",
+        "terms": [],
+        "unicode": "e9f0"
+    },
+    {
+        "id": "right-clipboard-l",
+        "styles": [""],
+        "label": "right-clipboard-l",
+        "terms": [],
+        "unicode": "e9f1"
+    },
+    {
+        "id": "rocket",
+        "styles": [""],
+        "label": "rocket",
+        "terms": [],
+        "unicode": "e9f2"
+    },
+    {
+        "id": "rocket-l",
+        "styles": [""],
+        "label": "rocket-l",
+        "terms": [],
+        "unicode": "e9f3"
+    },
+    {
+        "id": "rollerbrush",
+        "styles": [""],
+        "label": "rollerbrush",
+        "terms": [],
+        "unicode": "e9f4"
+    },
+    {
+        "id": "rollerbrush-l",
+        "styles": [""],
+        "label": "rollerbrush-l",
+        "terms": [],
+        "unicode": "e9f5"
+    },
+    {
+        "id": "rss",
+        "styles": [""],
+        "label": "rss",
+        "terms": [],
+        "unicode": "e9f6"
+    },
+    {
+        "id": "ruler",
+        "styles": [""],
+        "label": "ruler",
+        "terms": [],
+        "unicode": "e9f7"
+    },
+    {
+        "id": "ruler-l",
+        "styles": [""],
+        "label": "ruler-l",
+        "terms": [],
+        "unicode": "e9f8"
+    },
+    {
+        "id": "save",
+        "styles": [""],
+        "label": "save",
+        "terms": [],
+        "unicode": "e9f9"
+    },
+    {
+        "id": "save-l",
+        "styles": [""],
+        "label": "save-l",
+        "terms": [],
+        "unicode": "e9fa"
+    },
+    {
+        "id": "scan-l",
+        "styles": [""],
+        "label": "scan-l",
+        "terms": [],
+        "unicode": "e9fb"
+    },
+    {
+        "id": "scissors",
+        "styles": [""],
+        "label": "scissors",
+        "terms": [],
+        "unicode": "e9fc"
+    },
+    {
+        "id": "search-l",
+        "styles": [""],
+        "label": "search-l",
+        "terms": [],
+        "unicode": "e9fd"
+    },
+    {
+        "id": "server",
+        "styles": [""],
+        "label": "server",
+        "terms": [],
+        "unicode": "e9fe"
+    },
+    {
+        "id": "server-l",
+        "styles": [""],
+        "label": "server-l",
+        "terms": [],
+        "unicode": "e9ff"
+    },
+    {
+        "id": "servers",
+        "styles": [""],
+        "label": "servers",
+        "terms": [],
+        "unicode": "ea00"
+    },
+    {
+        "id": "setting",
+        "styles": [""],
+        "label": "setting",
+        "terms": [],
+        "unicode": "ea01"
+    },
+    {
+        "id": "setting-l",
+        "styles": [""],
+        "label": "setting-l",
+        "terms": [],
+        "unicode": "ea02"
+    },
+    {
+        "id": "share",
+        "styles": [""],
+        "label": "share",
+        "terms": [],
+        "unicode": "ea03"
+    },
+    {
+        "id": "shield-l",
+        "styles": [""],
+        "label": "shield-l",
+        "terms": [],
+        "unicode": "ea04"
+    },
+    {
+        "id": "shopping-cart",
+        "styles": [""],
+        "label": "shopping-cart",
+        "terms": [],
+        "unicode": "ea05"
+    },
+    {
+        "id": "shopping-cart-l",
+        "styles": [""],
+        "label": "shopping-cart-l",
+        "terms": [],
+        "unicode": "ea06"
+    },
+    {
+        "id": "site-folder-l",
+        "styles": [""],
+        "label": "site-folder-l",
+        "terms": [],
+        "unicode": "ea07"
+    },
+    {
+        "id": "slider-l",
+        "styles": [""],
+        "label": "slider-l",
+        "terms": [],
+        "unicode": "ea08"
+    },
+    {
+        "id": "square",
+        "styles": [""],
+        "label": "square",
+        "terms": [],
+        "unicode": "ea09"
+    },
+    {
+        "id": "square-l",
+        "styles": [""],
+        "label": "square-l",
+        "terms": [],
+        "unicode": "ea0a"
+    },
+    {
+        "id": "square-o",
+        "styles": [""],
+        "label": "square-o",
+        "terms": [],
+        "unicode": "ea0b"
+    },
+    {
+        "id": "star",
+        "styles": [""],
+        "label": "star",
+        "terms": [],
+        "unicode": "ea0c"
+    },
+    {
+        "id": "star-l",
+        "styles": [""],
+        "label": "star-l",
+        "terms": [],
+        "unicode": "ea0d"
+    },
+    {
+        "id": "steam",
+        "styles": [""],
+        "label": "steam",
+        "terms": [],
+        "unicode": "ea0e"
+    },
+    {
+        "id": "storage-l",
+        "styles": [""],
+        "label": "storage-l",
+        "terms": [],
+        "unicode": "ea0f"
+    },
+    {
+        "id": "sword-l",
+        "styles": [""],
+        "label": "sword-l",
+        "terms": [],
+        "unicode": "ea10"
+    },
+    {
+        "id": "tab",
+        "styles": [""],
+        "label": "tab",
+        "terms": [],
+        "unicode": "ea11"
+    },
+    {
+        "id": "tab-select",
+        "styles": [""],
+        "label": "tab-select",
+        "terms": [],
+        "unicode": "ea12"
+    },
+    {
+        "id": "tag",
+        "styles": [""],
+        "label": "tag",
+        "terms": [],
+        "unicode": "ea13"
+    },
+    {
+        "id": "tag-l",
+        "styles": [""],
+        "label": "tag-l",
+        "terms": [],
+        "unicode": "ea14"
+    },
+    {
+        "id": "taiji",
+        "styles": [""],
+        "label": "taiji",
+        "terms": [],
+        "unicode": "ea15"
+    },
+    {
+        "id": "talk",
+        "styles": [""],
+        "label": "talk",
+        "terms": [],
+        "unicode": "ea16"
+    },
+    {
+        "id": "talk-l",
+        "styles": [""],
+        "label": "talk-l",
+        "terms": [],
+        "unicode": "ea17"
+    },
+    {
+        "id": "taobao",
+        "styles": [""],
+        "label": "taobao",
+        "terms": [
+            "alibaba",
+            "ec"
+        ],
+        "unicode": "ea18"
+    },
+    {
+        "id": "telegram",
+        "styles": [""],
+        "label": "telegram",
+        "terms": [],
+        "unicode": "ea19"
+    },
+    {
+        "id": "thumbs-up",
+        "styles": [""],
+        "label": "thumbs-up",
+        "terms": [],
+        "unicode": "ea1a"
+    },
+    {
+        "id": "thumbs-up-l",
+        "styles": [""],
+        "label": "thumbs-up-l",
+        "terms": [],
+        "unicode": "ea1b"
+    },
+    {
+        "id": "time",
+        "styles": [""],
+        "label": "time",
+        "terms": [],
+        "unicode": "ea1c"
+    },
+    {
+        "id": "time-l",
+        "styles": [""],
+        "label": "time-l",
+        "terms": [],
+        "unicode": "ea1d"
+    },
+    {
+        "id": "time-plugin-l",
+        "styles": [""],
+        "label": "time-plugin-l",
+        "terms": [],
+        "unicode": "ea1e"
+    },
+    {
+        "id": "tmall",
+        "styles": [""],
+        "label": "tmall",
+        "terms": [],
+        "unicode": "ea1f"
+    },
+    {
+        "id": "transmission-l",
+        "styles": [""],
+        "label": "transmission-l",
+        "terms": [],
+        "unicode": "ea20"
+    },
+    {
+        "id": "trash",
+        "styles": [""],
+        "label": "trash",
+        "terms": [],
+        "unicode": "ea21"
+    },
+    {
+        "id": "trash-l",
+        "styles": [""],
+        "label": "trash-l",
+        "terms": [],
+        "unicode": "ea22"
+    },
+    {
+        "id": "triangle",
+        "styles": [""],
+        "label": "triangle",
+        "terms": [],
+        "unicode": "ea23"
+    },
+    {
+        "id": "triangle-l",
+        "styles": [""],
+        "label": "triangle-l",
+        "terms": [],
+        "unicode": "ea24"
+    },
+    {
+        "id": "triangle-o",
+        "styles": [""],
+        "label": "triangle-o",
+        "terms": [],
+        "unicode": "ea25"
+    },
+    {
+        "id": "truck",
+        "styles": [""],
+        "label": "truck",
+        "terms": [],
+        "unicode": "ea26"
+    },
+    {
+        "id": "truck-l",
+        "styles": [""],
+        "label": "truck-l",
+        "terms": [],
+        "unicode": "ea27"
+    },
+    {
+        "id": "twitter",
+        "styles": [""],
+        "label": "twitter",
+        "terms": [],
+        "unicode": "ea28"
+    },
+    {
+        "id": "upload-l",
+        "styles": [""],
+        "label": "upload-l",
+        "terms": [],
+        "unicode": "ea29"
+    },
+    {
+        "id": "usb",
+        "styles": [""],
+        "label": "usb",
+        "terms": [],
+        "unicode": "ea2a"
+    },
+    {
+        "id": "usb-l",
+        "styles": [""],
+        "label": "usb-l",
+        "terms": [],
+        "unicode": "ea2b"
+    },
+    {
+        "id": "user",
+        "styles": [""],
+        "label": "user",
+        "terms": [],
+        "unicode": "ea2c"
+    },
+    {
+        "id": "user-framework",
+        "styles": [""],
+        "label": "user-framework",
+        "terms": [],
+        "unicode": "ea2d"
+    },
+    {
+        "id": "user-l",
+        "styles": [""],
+        "label": "user-l",
+        "terms": [],
+        "unicode": "ea2e"
+    },
+    {
+        "id": "v2ex",
+        "styles": [""],
+        "label": "v2ex",
+        "terms": [],
+        "unicode": "ea2f"
+    },
+    {
+        "id": "vector-design",
+        "styles": [""],
+        "label": "vector-design",
+        "terms": [],
+        "unicode": "ea30"
+    },
+    {
+        "id": "video-camera-l",
+        "styles": [""],
+        "label": "video-camera-l",
+        "terms": [],
+        "unicode": "ea31"
+    },
+    {
+        "id": "video-file",
+        "styles": [""],
+        "label": "video-file",
+        "terms": [],
+        "unicode": "ea32"
+    },
+    {
+        "id": "video-file-l",
+        "styles": [""],
+        "label": "video-file-l",
+        "terms": [],
+        "unicode": "ea33"
+    },
+    {
+        "id": "vimeo",
+        "styles": [""],
+        "label": "vimeo",
+        "terms": [],
+        "unicode": "ea34"
+    },
+    {
+        "id": "volume",
+        "styles": [""],
+        "label": "volume",
+        "terms": [],
+        "unicode": "ea35"
+    },
+    {
+        "id": "volume-l",
+        "styles": [""],
+        "label": "volume-l",
+        "terms": [],
+        "unicode": "ea36"
+    },
+    {
+        "id": "volume-x-l",
+        "styles": [""],
+        "label": "volume-x-l",
+        "terms": [],
+        "unicode": "ea37"
+    },
+    {
+        "id": "watch",
+        "styles": [""],
+        "label": "watch",
+        "terms": [],
+        "unicode": "ea38"
+    },
+    {
+        "id": "watch-l",
+        "styles": [""],
+        "label": "watch-l",
+        "terms": [],
+        "unicode": "ea39"
+    },
+    {
+        "id": "webcam",
+        "styles": [""],
+        "label": "webcam",
+        "terms": [],
+        "unicode": "ea3a"
+    },
+    {
+        "id": "webcam-l",
+        "styles": [""],
+        "label": "webcam-l",
+        "terms": [],
+        "unicode": "ea3b"
+    },
+    {
+        "id": "web-edit",
+        "styles": [""],
+        "label": "web-edit",
+        "terms": [],
+        "unicode": "ea3c"
+    },
+    {
+        "id": "weibo",
+        "styles": [""],
+        "label": "weibo",
+        "terms": [],
+        "unicode": "ea3d"
+    },
+    {
+        "id": "weixin",
+        "styles": [""],
+        "label": "weixin",
+        "terms": [
+            "chat",
+            "wechat",
+            "tencent"
+        ],
+        "unicode": "ea3e"
+    },
+    {
+        "id": "weixinzhifu",
+        "styles": [""],
+        "label": "weixinzhifu",
+        "terms": [],
+        "unicode": "ea3f"
+    },
+    {
+        "id": "wifi",
+        "styles": [""],
+        "label": "wifi",
+        "terms": [],
+        "unicode": "ea40"
+    },
+    {
+        "id": "wordpress",
+        "styles": [""],
+        "label": "wordpress",
+        "terms": [],
+        "unicode": "ea41"
+    },
+    {
+        "id": "world-l",
+        "styles": [""],
+        "label": "world-l",
+        "terms": [],
+        "unicode": "ea42"
+    },
+    {
+        "id": "wrench-l",
+        "styles": [""],
+        "label": "wrench-l",
+        "terms": [],
+        "unicode": "ea43"
+    },
+    {
+        "id": "write-l",
+        "styles": [""],
+        "label": "write-l",
+        "terms": [],
+        "unicode": "ea44"
+    },
+    {
+        "id": "x-buy-l",
+        "styles": [""],
+        "label": "x-buy-l",
+        "terms": [],
+        "unicode": "ea45"
+    },
+    {
+        "id": "youtube",
+        "styles": [""],
+        "label": "youtube",
+        "terms": [],
+        "unicode": "ea46"
+    },
+    {
+        "id": "zhihu",
+        "styles": [""],
+        "label": "zhihu",
+        "terms": [],
+        "unicode": "ea47"
+    }
+]

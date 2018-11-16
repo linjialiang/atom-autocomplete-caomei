@@ -1,0 +1,41 @@
+@import 'ui-variables';
+
+// import version specific stylesheets into namespaces
+.caomei-v1 { @import (less) 'v1/caomei.css'; }
+.caomei-v2 { @import (less) 'v2/caomei.css'; } // minified version has parsing error
+
+// Atom packages run in a different path on Linux, so it's safer to
+// use an absolute path for runtime assets to avoid relativity issues
+@styles-path: 'atom://atom-autocomplete-caomei/styles';
+
+@font-face {
+    font-family: 'caomei-font-v1';
+    src: url('@{styles-path}/v1/caomei.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'caomei-font-v2';
+    src: url('@{styles-path}/v2/caomei.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+.caomei {
+    [class^="czs-"], [class*=" czs-"] {
+        transform: scale(1.2);
+    }
+}
+
+.caomei-v1 {
+    [class^="czs-"], [class*=" czs-"] {
+        font-family: 'caomei-font-v1';
+    }
+}
+
+.caomei-v2 {
+    [class^="czs-"], [class*=" czs-"] {
+        font-family: 'caomei-font-v2';
+    }
+}

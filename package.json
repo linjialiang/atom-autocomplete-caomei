@@ -1,0 +1,58 @@
+{
+    "author": {
+        "name": "madnesslin",
+        "email": "linjialiang@168.com",
+        "url": "https://github.com/linjialiang"
+    },
+    "bugs": {
+        "url": "https://github.com/linjialiang/atom-autocomplete-caomei/issues"
+    },
+    "bundleDependencies": false,
+    "configSchema": {
+        "version": {
+            "title": "Font caomei Version",
+            "description": "Which version of Font caomei to use for suggestions.",
+            "type": "string",
+            "default": "1.2.28",
+            "enum": [{
+                    "value": "1.2.28",
+                    "description": "Version 1.2.28"
+                },
+                {
+                    "value": "2.0.0",
+                    "description": "Version 2.0.0(not release)"
+                }
+            ]
+        }
+    },
+    "deprecated": false,
+    "description": "Font caomei autocomplete and icon previews for Atom.",
+    "engines": {
+        "atom": ">=1.32.2"
+    },
+    "homepage": "https://github.com/linjialiang/atom-autocomplete-caomei",
+    "keywords": [
+        "autocomplete",
+        "provider",
+        "font",
+        "awesome",
+        "fontawesome",
+        "icons",
+        "preview"
+    ],
+    "license": "MIT",
+    "main": "./lib/main",
+    "name": "atom-autocomplete-caomei",
+    "providedServices": {
+        "autocomplete.provider": {
+            "versions": {
+                "2.0.0": "getProvider"
+            }
+        }
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/linjialiang/atom-autocomplete-caomei.git"
+    },
+    "version": "0.0.1"
+}

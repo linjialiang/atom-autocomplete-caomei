@@ -1,0 +1,30 @@
+[
+    {
+		"id": "weixin",
+		"styles": [""],
+		"label": "weixin",
+		"terms": [
+            "wechat"
+        ],
+		"unicode": "ea3e"
+	},
+	{
+		"id": "weixinzhifu",
+		"styles": [""],
+		"label": "weixinzhifu",
+		"terms": [
+            "pay",
+            "wechat"
+        ],
+		"unicode": "ea3f"
+	},
+	{
+		"id": "wifi",
+		"styles": [""],
+		"label": "wifi",
+		"terms": [
+            "wifi"
+        ],
+		"unicode": "ea40"
+	}
+]
