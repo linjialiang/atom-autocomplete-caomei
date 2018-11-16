@@ -5,13 +5,13 @@
         "url": "https://github.com/linjialiang"
     },
     "keywords": [
-        "autocomplete",
-        "provider",
         "font",
-        "awesome",
-        "fontawesome",
         "icons",
-        "preview"
+        "caomei",
+        "preview",
+        "provider",
+        "snippets",
+        "autocomplete"
     ],
     "license": "MIT",
     "main": "./lib/main",
