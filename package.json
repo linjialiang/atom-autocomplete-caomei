@@ -4,6 +4,20 @@
         "email": "linjialiang@168.com",
         "url": "https://github.com/linjialiang"
     },
+    "keywords": [
+        "autocomplete",
+        "provider",
+        "font",
+        "awesome",
+        "fontawesome",
+        "icons",
+        "preview"
+    ],
+    "license": "MIT",
+    "main": "./lib/main",
+    "version": "0.0.0",
+    "name": "atom-autocomplete-caomei",
+    "repository": "https://github.com/atom/teletype",
     "bugs": {
         "url": "https://github.com/linjialiang/atom-autocomplete-caomei/issues"
     },
@@ -32,28 +46,11 @@
         "atom": ">=1.32.2 <2.0.0"
     },
     "homepage": "https://github.com/linjialiang/atom-autocomplete-caomei",
-    "keywords": [
-        "autocomplete",
-        "provider",
-        "font",
-        "awesome",
-        "fontawesome",
-        "icons",
-        "preview"
-    ],
-    "license": "MIT",
-    "main": "./lib/main",
-    "name": "atom-autocomplete-caomei",
     "providedServices": {
         "autocomplete.provider": {
             "versions": {
                 "2.0.0": "getProvider"
             }
         }
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/linjialiang/atom-autocomplete-caomei.git"
-    },
-    "version": "0.0.1"
+    }
 }
