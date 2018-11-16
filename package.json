@@ -15,9 +15,9 @@
     ],
     "license": "MIT",
     "main": "./lib/main",
-    "version": "0.0.1",
+    "version": "0.0.0",
     "name": "atom-autocomplete-caomei",
-    "repository": "https://github.com/atom/teletype",
+    "repository": "https://github.com/linjialiang/atom-autocomplete-caomei",
     "bugs": {
         "url": "https://github.com/linjialiang/atom-autocomplete-caomei/issues"
     },
