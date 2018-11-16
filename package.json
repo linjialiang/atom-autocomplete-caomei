@@ -43,7 +43,7 @@
     "deprecated": false,
     "description": "Font caomei autocomplete and icon previews for Atom.",
     "engines": {
-        "atom": ">=1.32.2 <2.0.0"
+        "atom": ">=1.0.0 <2.0.0"
     },
     "homepage": "https://github.com/linjialiang/atom-autocomplete-caomei",
     "providedServices": {
