@@ -65,4 +65,4 @@ The default is Font 🍓 `version 1.2.28`. To switch between Font caomei version
 
 | 支付宝                                        | 微信                                            |
 | ------------------------------------------ | --------------------------------------------- |
-| ![alipay](http://static.e8so.com/alipay.jpg) | ![wechatpay](http://static.e8so.com/wechatpay.png) |
+| ![alipay](http://static.e8so.com/alipay.png) | ![wechatpay](http://static.e8so.com/wechatpay.png) |
